@@ -8,5 +8,6 @@ let nume7 = "dlvkmd";
 let nume8 = 25478965478896547;
 
 let result = nume3 / nume7;
-console.log(result);
-dd
+
+let number = 123456789123456789n;
+console.log(number, typeof number);
