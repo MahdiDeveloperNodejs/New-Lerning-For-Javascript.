@@ -19,24 +19,12 @@ if (ali < 15) {
 } else {
   console.log(`YORE AGE ANT AGES`);
 }
+//? ///////////////////////////////////////////////////////////////////////////////////////
 
+let alis;
 
+let moji = null;
 
+console.log(typeof alis, typeof moji);
+//* /////////////////////////////////////////////////////////////////////////
 
-
-
-
-
-
-
-
-
-
-
-/** 
- * *jskvnvoskmsvd
- * !vsdnjmv jsl
- * ?dvsmosdmvs
- * TODO MADHO
- * @param vdskjvsvds vklnmdskvlds
-*/
