@@ -14,14 +14,14 @@
 // }
 
 
-// let User = 16;
-// for (let counter = 0; counter <= User; counter++) {
-//     if (User % counter == 0) {
-//         console.log(`added vared shode be User bakhpazirhast: ${counter}`);
-//     } else {
-//         console.log(`bakhsh pazir nist: ${counter}`);
-//     }
-// }
+let User = 16;
+for (let counter = 0; counter <= User; counter++) {
+    if (User % counter == 0) {
+        console.log(`added vared shode be User bakhpazirhast: ${counter}`);
+    } else {
+        console.log(`bakhsh pazir nist: ${counter}`);
+    }
+}
 
 // let inpute = 6;
 // let orgin = 0;
